@@ -5,5 +5,3 @@ Fun
 Fact
 _
 
-l
-gg
