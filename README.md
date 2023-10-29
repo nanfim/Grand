@@ -3,4 +3,3 @@ Grand
 Drop
 Fun
 Fact
-g
