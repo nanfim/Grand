@@ -3,4 +3,3 @@ Grand
 Drop
 Funt
 Fact
-g
