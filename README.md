@@ -2,4 +2,3 @@
 Grand
 Drop
 Funt
-F
